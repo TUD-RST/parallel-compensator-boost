@@ -38,7 +38,7 @@ D. Shuai, Y. Xie, X. Wang:
 Prof. Int. Conference on Electrical Machines and Systems, 2008.
 
 K. Röbenack:  
-[*Nichtlineare Regelungssysteme - Theorie und Anwendung der exakten Linearisierung*}(https://www.springer.com/de/book/9783662440902)  
+[*Nichtlineare Regelungssysteme - Theorie und Anwendung der exakten Linearisierung*](https://www.springer.com/de/book/9783662440902)  
 Springer Vieweg, 2017.
 
 ### Generalized Controller Canonical Form, Dynamic Feedback linearization
