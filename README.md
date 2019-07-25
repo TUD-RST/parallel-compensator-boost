@@ -17,3 +17,37 @@ https://www.scilab.org/
 
 The numerical simulation combined with the visualisation generates the following graphics showing the trajectories of the controlled system:
 
+<img src="src/parallel-compensator-boost-converter.png" alt="Simulation Results" width="85%"> 
+
+## References
+
+### Boost Converter Model 
+
+S. Bacha, I. Munteanu, A. I. Bratcu:  
+*Power Electronic Converters Modeling and Control*.  
+Springer-Verlag, 2014, Section Section 8.6.1.
+
+### Byrnes-Isidori Normal Form, Internal and Zero Dyanmics
+
+J. Liu, W. Ming, F. Gao:  
+*A New Control Strategy for Improving Performance of Boost DC/DC Converter Based on Input-Output Feedback Linearization*.  
+Proc. of the 8th World Congress on Intelligent Control and Automation, 2010.
+
+D. Shuai, Y. Xie, X. Wang:  
+*The research of input-output linearization and stabilization analysis of internal dynamics on the CCM Boost converter*  
+Prof. Int. Conference on Electrical Machines and Systems, 2008.
+
+K. Röbenack:  
+[*Nichtlineare Regelungssysteme - Theorie und Anwendung der exakten Linearisierung*}(https://www.springer.com/de/book/9783662440902)  
+Springer Vieweg, 2017.
+
+### Generalized Controller Canonical Form, Dynamic Feedback linearization
+
+M. Fliess:  
+*Generalized controller canonical form for linear and nonlinear dynamics*.  
+IEEE Trans. Automatic Control 35(9), 1990, pp. 994-1001.
+
+K. Röbenack and S. Palis:  
+*Nonlinear Control of Flat Systems Using a Non-Flat Output with Dynamic Extension*.  
+International Conference on System Theory, Control and Computing (ICSTCC).  
+October 9-11, 2019, Sinaia, Romania
