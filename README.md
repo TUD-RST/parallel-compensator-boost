@@ -50,4 +50,4 @@ IEEE Trans. Automatic Control 35(9), 1990, pp. 994-1001.
 K. Röbenack and S. Palis:  
 *Nonlinear Control of Flat Systems Using a Non-Flat Output with Dynamic Extension*.  
 International Conference on System Theory, Control and Computing (ICSTCC).  
-October 9-11, 2019, Sinaia, Romania
+October 2018, Sinaia, Romania.
