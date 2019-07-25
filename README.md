@@ -13,6 +13,14 @@ To carry out the simulation you need to install the follwoing open source softwa
 
 https://www.scilab.org/
 
+## Contents
+
+The [src](src) directory contains the [Scilab](https://www.scilab.org/) source file:
+
+File | Description
+:--- | :---
+[`parallel-compensator-boost-converter.sce`](src/parallel-compensator-boost-converter.sce) | Simulation of the closed control loop
+
 ## Simulation Results
 
 The numerical simulation combined with the visualisation generates the following graphics showing the trajectories of the controlled system:
